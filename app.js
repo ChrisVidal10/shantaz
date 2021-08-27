@@ -7,7 +7,6 @@ const tallaABuscar = '41'
 
 const options = {
     uri: 'https://www.moovbydexter.com.ar/zapatillas-air-jordan-1-mid/NI_554724-122.html/',
-    uri: 'https://www.moovbydexter.com.ar/zapatillas-nike-air-force-1-%2707/NI_CT2302-002.html',
     transform: (body) => {
         return cheerio.load(body);
     }
