@@ -1,0 +1,5 @@
+{
+    "mailSenderCredentials": {
+        "password": "SENDER_MAIL_PASS"
+    }
+}
