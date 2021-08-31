@@ -3,7 +3,7 @@ const request = require('request-promise');
 const nodemailer = require('nodemailer');
 const config = require('config');
 
-const tallaABuscar = '41'
+const tallaABuscar = '40'
 
 const options = {
     uri: 'https://www.moovbydexter.com.ar/zapatillas-air-jordan-1-mid/NI_554724-122.html/',
